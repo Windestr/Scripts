@@ -1,4 +1,4 @@
-# Powershell scripts for interacting with the Cisco Webex APIs.
+# Powershell scripts for interacting with the Cisco Webex APIs
 
 ## Keep in mind:
 You will most likely need to have an access token to use the scripts.
